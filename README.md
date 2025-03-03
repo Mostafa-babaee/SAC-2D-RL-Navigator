@@ -68,5 +68,11 @@ python train_agent.py
 #### **Success Rate Over Time**  
 <img src="https://i.imgur.com/xzbIBNI.png" width="700">
 
+## License  
+
+📜 This project is licensed under the **MIT License** – you are free to use, modify, and distribute this project as long as proper credit is given.  
+
+See the full **[LICENSE](LICENSE)** file for more details.
+
 
 
