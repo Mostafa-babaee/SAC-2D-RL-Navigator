@@ -29,9 +29,7 @@ cd SAC-2D-RL-Navigator
 pip install -r requirements.txt  
 python train_agent.py
 
-
-
-### **Fixes & Improvements:**
+#### **Fixes & Improvements:**
  Removed **duplicate "Setup" heading**  
  Fixed **repository clone command** (removed unnecessary dot in `.git`)  
  Ensured **clean formatting** with proper Markdown  
