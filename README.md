@@ -50,7 +50,7 @@ python train_agent.py
 ### **Training Progress Visualization**  
 
 #### **Episode 1: Random Movement**  
-![Episode 1](images/episode_1.png)  
+![Episode 1]([images/episode_1](https://github.com/mostafa-babaee/SAC-2D-RL-Navigator/assets/)  
 
 #### **Episode 2000: Improved Navigation**  
 ![Episode 2000](images/episode_2000.png)  
