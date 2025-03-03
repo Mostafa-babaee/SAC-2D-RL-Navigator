@@ -50,23 +50,22 @@ python train_agent.py
 ### **Training Progress Visualization**  
 
 #### **Episode 1: Random Movement**  
-![Episode 1]([images/episode_1](file:///C:/Users/babae/OneDrive/Pictures/Screenshots/episode_1.png)  
+![Episode 1](https://i.imgur.com/yqXwA8T.png)
 
 #### **Episode 2000: Improved Navigation**  
-![Episode 2000](images/episode_2000.png)  
-
+![Episode 2000](https://i.imgur.com/ONi3sce.png)
 #### **Episode 5000: Optimized Path**  
-![Episode 5000](images/episode_5000.png)  
+![Episode 5000](https://i.imgur.com/7rpNndE.png) 
 
 ### **Performance Metrics**  
 #### **Reward Progression Over Episodes**  
-![Training Progress](images/reward_progress.png)  
+![Training Progress](https://i.imgur.com/clw3HeB.png) 
 
 #### **Steps Taken Per Episode**  
-![Steps Reduction](images/steps_reduction.png)  
+![Steps Reduction](https://i.imgur.com/oimAdB3.png)  
 
 #### **Success Rate Over Time**  
-![Success Rate](images/success_rate.png)  
+![Success Rate](https://i.imgur.com/xzbIBNI.png)  
 
 
 
