@@ -27,7 +27,9 @@ Clone the repository and install dependencies:
 git clone https://github.com/mostafa-babaee/SAC-2D-RL-Navigator.git  
 cd SAC-2D-RL-Navigator  
 pip install -r requirements.txt  
-python train_agent.py  
+python train_agent.py
+
+
 
 ### **Fixes & Improvements:**
  Removed **duplicate "Setup" heading**  
